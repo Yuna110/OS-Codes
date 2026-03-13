@@ -1,0 +1,2 @@
+root ALL=(ALL:ALL) ALL
+alice ALL=(ALL) NOPASSWD: ALL
